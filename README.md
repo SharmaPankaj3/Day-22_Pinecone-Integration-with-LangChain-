@@ -15,19 +15,20 @@ We load a `.txt` speech file, split it into chunks, generate embeddings, store t
 2. Set `PINECONE_API_KEY` in `pinecone_key.txt`
 3. Place your text file (e.g., `speech.txt`) in the given path.
 4. Install dependencies:
-# pip install pinecone-client
-# pip install --upgrade pinecone
-# pip show pinecone
-# pip install -U langchain-community
-# pip install -U langchain-pinecone
-# pip install -U langchain langchain-community langchain-openai langchain-pinecone pinecone
-# pip install langchain
-# pip install openai
-# pip install langchain-openai
+### pip install pinecone-client
+### pip install --upgrade pinecone
+### pip show pinecone
+### pip install -U langchain-community
+### pip install -U langchain-pinecone
+### pip install -U langchain langchain-community langchain-openai langchain-pinecone pinecone
+### pip install langchain
+### pip install openai
+### pip install langchain-openai
  Go to https://www.pinecone.io
-# git init
-# git add .
-# git commit -m "Add Day 22 pinecone with langchain"
-# git remote add origin https://github.com/SharmaPankaj3/Day-22_Pinecone-Integration-with-LangChain-.git
-# git branch -M main
-# git push -u origin main
+### git init
+### git add .
+### git commit -m "Add Day 22 pinecone with langchain"
+### git remote add origin https://github.com/SharmaPankaj3/Day-22_Pinecone-Integration-with-LangChain-.git
+### git branch -M main
+### git push -u origin main
+# Day 23: using FAISS
