@@ -1,3 +1,6 @@
+# Day 22 RAG with Pinecone
+# User Query] → Retriever (Pinecone) → LLM with Retrieved Context → Answer
+
 # how to create the virtual env:
 #  step 1 python -m venv .venv
 # step 2 .venv\Scripts\Activate.ps1
@@ -16,6 +19,7 @@
 # git commit -m "Add Day 22 pinecone with langchain"
 # git remote add origin https://github.com/SharmaPankaj3/Day-22_Pinecone-Integration-with-LangChain-.git
 # git branch -M main
+# git push -u origin main
 
 import os
 from pinecone import Pinecone, ServerlessSpec
