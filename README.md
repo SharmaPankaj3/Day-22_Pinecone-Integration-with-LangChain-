@@ -1,4 +1,4 @@
-# Day 22 – RAG with Pinecone and FAISS
+# Day 22_23 – RAG with Pinecone and FAISS
 
 ## Overview
 This script implements Retrieval-Augmented Generation using LangChain, Pinecone, and OpenAI.
